@@ -1,17 +1,17 @@
-# Library Management System
+Library Management System
 
-## 📌 Project Overview
+ Project Overview
 A desktop-based Library Management System developed using Java Swing and MySQL.  
 This system helps manage books, students, and book issue operations efficiently.
 
-## 🚀 Technologies Used
+Technologies Used
 - Java
 - Java Swing (GUI)
 - JDBC
 - MySQL
 - NetBeans IDE
 
-## ✨ Features
+Features
 - Admin Login
 - Add / Update / Delete Books
 - Add / Update / Delete Students
@@ -19,7 +19,7 @@ This system helps manage books, students, and book issue operations efficiently.
 - Dashboard Panel
 - Database Connectivity
 
-## 🗂 Project Structure
+Project Structure
 - BookForm.java
 - StudentForm.java
 - IssueForm.java
@@ -27,7 +27,7 @@ This system helps manage books, students, and book issue operations efficiently.
 - Dashboard.java
 - DBConnection.java
 
-## 📷 Future Improvements
+Future Improvements
 - Return book functionality
 - Fine calculation
 - Search feature
