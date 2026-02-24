@@ -1,7 +1,7 @@
 Library Management System
 
  Project Overview
-A desktop-based Library Management System developed using Java Swing and MySQL.  
+A desktop-based Library Management System developed using Java Swing and MySQL. 
 This system helps manage books, students, and book issue operations efficiently.
 
 Technologies Used
